@@ -1,0 +1,29 @@
+{
+  "_id": "634a0e142e812aef9c845f72",
+  "index": 0,
+  "guid": "7b1eab09-8394-4e27-b146-3d3f64f51bb1",
+  "picture": "http://placehold.it/32x32",
+  "email": "zelmavega@assitia.com",
+  "phone": "+1 (827) 535-2121",
+  "address": "573 Diamond Street, Waterloo, Florida, 8157",
+  "about": "Veniam tempor nulla esse aliqua. Reprehenderit adipisicing proident magna occaecat sunt duis officia qui tempor id. Sunt ullamco voluptate ipsum enim elit laborum laboris ad dolor culpa eiusmod aliquip id cupidatat. Veniam exercitation aliquip ea nisi quis nisi.\r\n",
+  "registered": "2015-11-03T05:08:25 -01:00",
+  "longitude": 20.687044,
+  "tags": [
+    "nulla",
+    "ad",
+    "eiusmod"
+  ],
+  "friends": [
+    {
+      "id": 0,
+      "name": "Duke Berger"
+    },
+    {
+      "id": 1,
+      "name": "Amelia Hunter"
+    }
+  ],
+  "greeting": "Hello, undefined! You have 2 unread messages.",
+  "favoriteFruit": "banana"
+}

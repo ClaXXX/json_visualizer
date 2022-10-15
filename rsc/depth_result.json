@@ -1,0 +1,355 @@
+[
+  {
+    "data": {
+      "id": "1",
+      "label": "",
+      "expanded": true
+    },
+    "position": {
+      "y": 160.0,
+      "x": 0.0
+    }
+  },
+  {
+    "data": {
+      "id": "1",
+      "label": "friends",
+      "expanded": true
+    },
+    "position": {
+      "y": 270.0,
+      "x": 400.0
+    }
+  },
+  {
+    "data": {
+      "id": "1",
+      "label": "tags",
+      "expanded": true
+    },
+    "position": {
+      "y": 220.0,
+      "x": 400.0
+    }
+  },
+  {
+    "data": {
+      "id": "1",
+      "label": "634a0e142e812aef9c845f72",
+      "expanded": false
+    },
+    "position": {
+      "y": 0.0,
+      "x": 400.0
+    }
+  },
+  {
+    "data": {
+      "id": "1",
+      "label": "0",
+      "expanded": false
+    },
+    "position": {
+      "y": 20.0,
+      "x": 400.0
+    }
+  },
+  {
+    "data": {
+      "id": "1",
+      "label": "7b1eab09-8394-4e27-b146-3d3f64f51bb1",
+      "expanded": false
+    },
+    "position": {
+      "y": 40.0,
+      "x": 400.0
+    }
+  },
+  {
+    "data": {
+      "id": "1",
+      "label": "http://placehold.it/32x32",
+      "expanded": false
+    },
+    "position": {
+      "y": 60.0,
+      "x": 400.0
+    }
+  },
+  {
+    "data": {
+      "id": "1",
+      "label": "zelmavega@assitia.com",
+      "expanded": false
+    },
+    "position": {
+      "y": 80.0,
+      "x": 400.0
+    }
+  },
+  {
+    "data": {
+      "id": "1",
+      "label": "+1 (827) 535-2121",
+      "expanded": false
+    },
+    "position": {
+      "y": 100.0,
+      "x": 400.0
+    }
+  },
+  {
+    "data": {
+      "id": "1",
+      "label": "573 Diamond Street, Waterloo, Florida, 8157",
+      "expanded": false
+    },
+    "position": {
+      "y": 120.0,
+      "x": 400.0
+    }
+  },
+  {
+    "data": {
+      "id": "1",
+      "label": "Veniam tempor nulla esse aliqua. Reprehenderit adipisicing proident magna occaecat sunt duis officia qui tempor id. Sunt ullamco voluptate ipsum enim elit laborum laboris ad dolor culpa eiusmod aliquip id cupidatat. Veniam exercitation aliquip ea nisi quis nisi.\r\n",
+      "expanded": false
+    },
+    "position": {
+      "y": 140.0,
+      "x": 400.0
+    }
+  },
+  {
+    "data": {
+      "id": "1",
+      "label": "2015-11-03T05:08:25 -01:00",
+      "expanded": false
+    },
+    "position": {
+      "y": 160.0,
+      "x": 400.0
+    }
+  },
+  {
+    "data": {
+      "id": "1",
+      "label": "20.687044",
+      "expanded": false
+    },
+    "position": {
+      "y": 180.0,
+      "x": 400.0
+    }
+  },
+  {
+    "data": {
+      "id": "1",
+      "label": "nulla",
+      "expanded": false
+    },
+    "position": {
+      "y": 200.0,
+      "x": 800.0
+    }
+  },
+  {
+    "data": {
+      "id": "1",
+      "label": "ad",
+      "expanded": false
+    },
+    "position": {
+      "y": 220.0,
+      "x": 800.0
+    }
+  },
+  {
+    "data": {
+      "id": "1",
+      "label": "eiusmod",
+      "expanded": false
+    },
+    "position": {
+      "y": 240.0,
+      "x": 800.0
+    }
+  },
+  {
+    "data": {
+      "id": "1",
+      "label": "0",
+      "expanded": false
+    },
+    "position": {
+      "y": 260.0,
+      "x": 800.0
+    }
+  },
+  {
+    "data": {
+      "id": "1",
+      "label": "1",
+      "expanded": false
+    },
+    "position": {
+      "y": 280.0,
+      "x": 800.0
+    }
+  },
+  {
+    "data": {
+      "id": "1",
+      "label": "Hello, undefined! You have 2 unread messages.",
+      "expanded": false
+    },
+    "position": {
+      "y": 300.0,
+      "x": 400.0
+    }
+  },
+  {
+    "data": {
+      "id": "1",
+      "label": "banana",
+      "expanded": false
+    },
+    "position": {
+      "y": 320.0,
+      "x": 400.0
+    }
+  },
+  {
+    "data": {
+      "label": " - _id",
+      "source": "1",
+      "target": "1"
+    }
+  },
+  {
+    "data": {
+      "label": " - index",
+      "source": "1",
+      "target": "1"
+    }
+  },
+  {
+    "data": {
+      "label": " - guid",
+      "source": "1",
+      "target": "1"
+    }
+  },
+  {
+    "data": {
+      "label": " - picture",
+      "source": "1",
+      "target": "1"
+    }
+  },
+  {
+    "data": {
+      "label": " - email",
+      "source": "1",
+      "target": "1"
+    }
+  },
+  {
+    "data": {
+      "label": " - phone",
+      "source": "1",
+      "target": "1"
+    }
+  },
+  {
+    "data": {
+      "label": " - address",
+      "source": "1",
+      "target": "1"
+    }
+  },
+  {
+    "data": {
+      "label": " - about",
+      "source": "1",
+      "target": "1"
+    }
+  },
+  {
+    "data": {
+      "label": " - registered",
+      "source": "1",
+      "target": "1"
+    }
+  },
+  {
+    "data": {
+      "label": " - longitude",
+      "source": "1",
+      "target": "1"
+    }
+  },
+  {
+    "data": {
+      "label": "tags - 0",
+      "source": "1",
+      "target": "1"
+    }
+  },
+  {
+    "data": {
+      "label": "tags - 1",
+      "source": "1",
+      "target": "1"
+    }
+  },
+  {
+    "data": {
+      "label": "tags - 2",
+      "source": "1",
+      "target": "1"
+    }
+  },
+  {
+    "data": {
+      "label": " - tags",
+      "source": "1",
+      "target": "1"
+    }
+  },
+  {
+    "data": {
+      "label": "friends - 0",
+      "source": "1",
+      "target": "1"
+    }
+  },
+  {
+    "data": {
+      "label": "friends - 1",
+      "source": "1",
+      "target": "1"
+    }
+  },
+  {
+    "data": {
+      "label": " - friends",
+      "source": "1",
+      "target": "1"
+    }
+  },
+  {
+    "data": {
+      "label": " - greeting",
+      "source": "1",
+      "target": "1"
+    }
+  },
+  {
+    "data": {
+      "label": " - favoriteFruit",
+      "source": "1",
+      "target": "1"
+    }
+  }
+]
